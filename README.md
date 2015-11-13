@@ -7,7 +7,7 @@
 This project provides the design and documentation for the dataset "County Galway Libraries" which is available at [data.gov.ie](https://data.gov.ie/dataset/county-galway-libraries)
 
 ## About the Dataset
-This dataset was received in Comma Separated Values (CSV) format, and was downloaded from [*here*]( http://data.galwaycoco.opendata.arcgis.com/datasets/eb71973a8a5b41d398fd0acc8613ea2a_0.csv ).
+This dataset was received in Comma Separated Values (CSV) format, and can be downloaded [*here*]( http://data.galwaycoco.opendata.arcgis.com/datasets/eb71973a8a5b41d398fd0acc8613ea2a_0.csv ).
 The CSV file contains 30 rows, the first being a header row with the names of each field, and 24 columns.
 The Columns are as follows:
 
